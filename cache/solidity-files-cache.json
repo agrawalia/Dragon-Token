@@ -2,8 +2,8 @@
   "_format": "hh-sol-cache-2",
   "files": {
     "E:\\iNTERNSHIP\\Solulab\\Ethereum\\Dragon-Token\\contracts\\DragonToken.sol": {
-      "lastModificationDate": 1652170349558,
-      "contentHash": "0fa9c1180f8d5f4a5e9508e550ce7288",
+      "lastModificationDate": 1652172843337,
+      "contentHash": "54f71c617f60d6bb2c2ceb58e171fa48",
       "sourceName": "contracts/DragonToken.sol",
       "solcConfig": {
         "version": "0.8.7",
