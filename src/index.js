@@ -277,7 +277,7 @@ const ABI = [
   },
 ];
 
-async function getName() {
+const getName = async () => {
   const provider = new ethers.providers.JsonRpcProvider(
     " https://rinkeby.infura.io/v3/4d808e8bb0ff4315b12a4794e82fb01a"
   );
@@ -289,7 +289,7 @@ async function getName() {
   const name = await contract.name();
   document.getElementById("name_textarea").value = name;
   console.log("name : ", name);
-}
+};
 
 const getSymbol = async () => {
   const provider = new ethers.providers.JsonRpcProvider(
