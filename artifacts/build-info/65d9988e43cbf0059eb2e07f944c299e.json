@@ -36,9 +36,7 @@
             "evm.methodIdentifiers",
             "metadata"
           ],
-          "": [
-            "ast"
-          ]
+          "": ["ast"]
         }
       }
     }
@@ -18268,18 +18266,10 @@
         "ast": {
           "absolutePath": "@openzeppelin/contracts/token/ERC20/ERC20.sol",
           "exportedSymbols": {
-            "Context": [
-              710
-            ],
-            "ERC20": [
-              585
-            ],
-            "IERC20": [
-              663
-            ],
-            "IERC20Metadata": [
-              688
-            ]
+            "Context": [710],
+            "ERC20": [585],
+            "IERC20": [663],
+            "IERC20Metadata": [688]
           },
           "id": 586,
           "license": "MIT",
@@ -18287,12 +18277,7 @@
           "nodes": [
             {
               "id": 1,
-              "literals": [
-                "solidity",
-                "^",
-                "0.8",
-                ".0"
-              ],
+              "literals": ["solidity", "^", "0.8", ".0"],
               "nodeType": "PragmaDirective",
               "src": "105:23:0"
             },
@@ -18382,12 +18367,7 @@
               },
               "fullyImplemented": true,
               "id": 585,
-              "linearizedBaseContracts": [
-                585,
-                688,
-                663,
-                710
-              ],
+              "linearizedBaseContracts": [585, 688, 663, 710],
               "name": "ERC20",
               "nameLocation": "1412:5:0",
               "nodeType": "ContractDefinition",
@@ -18765,9 +18745,7 @@
                   "visibility": "public"
                 },
                 {
-                  "baseFunctions": [
-                    675
-                  ],
+                  "baseFunctions": [675],
                   "body": {
                     "id": 53,
                     "nodeType": "Block",
@@ -18860,9 +18838,7 @@
                   "visibility": "public"
                 },
                 {
-                  "baseFunctions": [
-                    681
-                  ],
+                  "baseFunctions": [681],
                   "body": {
                     "id": 63,
                     "nodeType": "Block",
@@ -18955,9 +18931,7 @@
                   "visibility": "public"
                 },
                 {
-                  "baseFunctions": [
-                    687
-                  ],
+                  "baseFunctions": [687],
                   "body": {
                     "id": 73,
                     "nodeType": "Block",
@@ -19054,9 +19028,7 @@
                   "visibility": "public"
                 },
                 {
-                  "baseFunctions": [
-                    612
-                  ],
+                  "baseFunctions": [612],
                   "body": {
                     "id": 83,
                     "nodeType": "Block",
@@ -19149,9 +19121,7 @@
                   "visibility": "public"
                 },
                 {
-                  "baseFunctions": [
-                    620
-                  ],
+                  "baseFunctions": [620],
                   "body": {
                     "id": 97,
                     "nodeType": "Block",
@@ -19298,18 +19268,14 @@
                   "visibility": "public"
                 },
                 {
-                  "baseFunctions": [
-                    630
-                  ],
+                  "baseFunctions": [630],
                   "body": {
                     "id": 122,
                     "nodeType": "Block",
                     "src": "3814:104:0",
                     "statements": [
                       {
-                        "assignments": [
-                          110
-                        ],
+                        "assignments": [110],
                         "declarations": [
                           {
                             "constant": false,
@@ -19606,9 +19572,7 @@
                   "visibility": "public"
                 },
                 {
-                  "baseFunctions": [
-                    640
-                  ],
+                  "baseFunctions": [640],
                   "body": {
                     "id": 140,
                     "nodeType": "Block",
@@ -19808,18 +19772,14 @@
                   "visibility": "public"
                 },
                 {
-                  "baseFunctions": [
-                    650
-                  ],
+                  "baseFunctions": [650],
                   "body": {
                     "id": 165,
                     "nodeType": "Block",
                     "src": "4522:108:0",
                     "statements": [
                       {
-                        "assignments": [
-                          153
-                        ],
+                        "assignments": [153],
                         "declarations": [
                           {
                             "constant": false,
@@ -20116,18 +20076,14 @@
                   "visibility": "public"
                 },
                 {
-                  "baseFunctions": [
-                    662
-                  ],
+                  "baseFunctions": [662],
                   "body": {
                     "id": 198,
                     "nodeType": "Block",
                     "src": "5325:153:0",
                     "statements": [
                       {
-                        "assignments": [
-                          180
-                        ],
+                        "assignments": [180],
                         "declarations": [
                           {
                             "constant": false,
@@ -20543,9 +20499,7 @@
                     "src": "5967:140:0",
                     "statements": [
                       {
-                        "assignments": [
-                          210
-                        ],
+                        "assignments": [210],
                         "declarations": [
                           {
                             "constant": false,
@@ -20924,9 +20878,7 @@
                     "src": "6693:328:0",
                     "statements": [
                       {
-                        "assignments": [
-                          239
-                        ],
+                        "assignments": [239],
                         "declarations": [
                           {
                             "constant": false,
@@ -20992,9 +20944,7 @@
                         "src": "6703:28:0"
                       },
                       {
-                        "assignments": [
-                          244
-                        ],
+                        "assignments": [244],
                         "declarations": [
                           {
                             "constant": false,
@@ -21168,10 +21118,7 @@
                             "id": 250,
                             "name": "require",
                             "nodeType": "Identifier",
-                            "overloadedDeclarations": [
-                              -18,
-                              -18
-                            ],
+                            "overloadedDeclarations": [-18, -18],
                             "referencedDeclaration": -18,
                             "src": "6803:7:0",
                             "typeDescriptions": {
@@ -21590,10 +21537,7 @@
                             "id": 279,
                             "name": "require",
                             "nodeType": "Identifier",
-                            "overloadedDeclarations": [
-                              -18,
-                              -18
-                            ],
+                            "overloadedDeclarations": [-18, -18],
                             "referencedDeclaration": -18,
                             "src": "7602:7:0",
                             "typeDescriptions": {
@@ -21744,10 +21688,7 @@
                             "id": 289,
                             "name": "require",
                             "nodeType": "Identifier",
-                            "overloadedDeclarations": [
-                              -18,
-                              -18
-                            ],
+                            "overloadedDeclarations": [-18, -18],
                             "referencedDeclaration": -18,
                             "src": "7680:7:0",
                             "typeDescriptions": {
@@ -21860,9 +21801,7 @@
                         "src": "7755:38:0"
                       },
                       {
-                        "assignments": [
-                          306
-                        ],
+                        "assignments": [306],
                         "declarations": [
                           {
                             "constant": false,
@@ -22009,10 +21948,7 @@
                             "id": 311,
                             "name": "require",
                             "nodeType": "Identifier",
-                            "overloadedDeclarations": [
-                              -18,
-                              -18
-                            ],
+                            "overloadedDeclarations": [-18, -18],
                             "referencedDeclaration": -18,
                             "src": "7851:7:0",
                             "typeDescriptions": {
@@ -22629,10 +22565,7 @@
                             "id": 354,
                             "name": "require",
                             "nodeType": "Identifier",
-                            "overloadedDeclarations": [
-                              -18,
-                              -18
-                            ],
+                            "overloadedDeclarations": [-18, -18],
                             "referencedDeclaration": -18,
                             "src": "8486:7:0",
                             "typeDescriptions": {
@@ -23388,10 +23321,7 @@
                             "id": 410,
                             "name": "require",
                             "nodeType": "Identifier",
-                            "overloadedDeclarations": [
-                              -18,
-                              -18
-                            ],
+                            "overloadedDeclarations": [-18, -18],
                             "referencedDeclaration": -18,
                             "src": "9195:7:0",
                             "typeDescriptions": {
@@ -23552,9 +23482,7 @@
                         "src": "9273:49:0"
                       },
                       {
-                        "assignments": [
-                          430
-                        ],
+                        "assignments": [430],
                         "declarations": [
                           {
                             "constant": false,
@@ -23701,10 +23629,7 @@
                             "id": 435,
                             "name": "require",
                             "nodeType": "Identifier",
-                            "overloadedDeclarations": [
-                              -18,
-                              -18
-                            ],
+                            "overloadedDeclarations": [-18, -18],
                             "referencedDeclaration": -18,
                             "src": "9386:7:0",
                             "typeDescriptions": {
@@ -24364,10 +24289,7 @@
                             "id": 484,
                             "name": "require",
                             "nodeType": "Identifier",
-                            "overloadedDeclarations": [
-                              -18,
-                              -18
-                            ],
+                            "overloadedDeclarations": [-18, -18],
                             "referencedDeclaration": -18,
                             "src": "10242:7:0",
                             "typeDescriptions": {
@@ -24518,10 +24440,7 @@
                             "id": 494,
                             "name": "require",
                             "nodeType": "Identifier",
-                            "overloadedDeclarations": [
-                              -18,
-                              -18
-                            ],
+                            "overloadedDeclarations": [-18, -18],
                             "referencedDeclaration": -18,
                             "src": "10320:7:0",
                             "typeDescriptions": {
@@ -24850,9 +24769,7 @@
                     "src": "10890:321:0",
                     "statements": [
                       {
-                        "assignments": [
-                          530
-                        ],
+                        "assignments": [530],
                         "declarations": [
                           {
                             "constant": false,
@@ -25135,10 +25052,7 @@
                                   "id": 543,
                                   "name": "require",
                                   "nodeType": "Identifier",
-                                  "overloadedDeclarations": [
-                                    -18,
-                                    -18
-                                  ],
+                                  "overloadedDeclarations": [-18, -18],
                                   "referencedDeclaration": -18,
                                   "src": "11019:7:0",
                                   "typeDescriptions": {
@@ -25665,9 +25579,7 @@
         "ast": {
           "absolutePath": "@openzeppelin/contracts/token/ERC20/IERC20.sol",
           "exportedSymbols": {
-            "IERC20": [
-              663
-            ]
+            "IERC20": [663]
           },
           "id": 664,
           "license": "MIT",
@@ -25675,12 +25587,7 @@
           "nodes": [
             {
               "id": 587,
-              "literals": [
-                "solidity",
-                "^",
-                "0.8",
-                ".0"
-              ],
+              "literals": ["solidity", "^", "0.8", ".0"],
               "nodeType": "PragmaDirective",
               "src": "106:23:1"
             },
@@ -25697,9 +25604,7 @@
               },
               "fullyImplemented": false,
               "id": 663,
-              "linearizedBaseContracts": [
-                663
-              ],
+              "linearizedBaseContracts": [663],
               "name": "IERC20",
               "nameLocation": "212:6:1",
               "nodeType": "ContractDefinition",
@@ -26580,12 +26485,8 @@
         "ast": {
           "absolutePath": "@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol",
           "exportedSymbols": {
-            "IERC20": [
-              663
-            ],
-            "IERC20Metadata": [
-              688
-            ]
+            "IERC20": [663],
+            "IERC20Metadata": [688]
           },
           "id": 689,
           "license": "MIT",
@@ -26593,12 +26494,7 @@
           "nodes": [
             {
               "id": 665,
-              "literals": [
-                "solidity",
-                "^",
-                "0.8",
-                ".0"
-              ],
+              "literals": ["solidity", "^", "0.8", ".0"],
               "nodeType": "PragmaDirective",
               "src": "110:23:2"
             },
@@ -26640,10 +26536,7 @@
               },
               "fullyImplemented": false,
               "id": 688,
-              "linearizedBaseContracts": [
-                688,
-                663
-              ],
+              "linearizedBaseContracts": [688, 663],
               "name": "IERC20Metadata",
               "nameLocation": "287:14:2",
               "nodeType": "ContractDefinition",
@@ -26845,9 +26738,7 @@
         "ast": {
           "absolutePath": "@openzeppelin/contracts/utils/Context.sol",
           "exportedSymbols": {
-            "Context": [
-              710
-            ]
+            "Context": [710]
           },
           "id": 711,
           "license": "MIT",
@@ -26855,12 +26746,7 @@
           "nodes": [
             {
               "id": 690,
-              "literals": [
-                "solidity",
-                "^",
-                "0.8",
-                ".0"
-              ],
+              "literals": ["solidity", "^", "0.8", ".0"],
               "nodeType": "PragmaDirective",
               "src": "86:23:3"
             },
@@ -26877,9 +26763,7 @@
               },
               "fullyImplemented": true,
               "id": 710,
-              "linearizedBaseContracts": [
-                710
-              ],
+              "linearizedBaseContracts": [710],
               "name": "Context",
               "nameLocation": "626:7:3",
               "nodeType": "ContractDefinition",
@@ -27085,21 +26969,11 @@
         "ast": {
           "absolutePath": "contracts/DragonToken.sol",
           "exportedSymbols": {
-            "Context": [
-              710
-            ],
-            "DragonToken": [
-              734
-            ],
-            "ERC20": [
-              585
-            ],
-            "IERC20": [
-              663
-            ],
-            "IERC20Metadata": [
-              688
-            ]
+            "Context": [710],
+            "DragonToken": [734],
+            "ERC20": [585],
+            "IERC20": [663],
+            "IERC20Metadata": [688]
           },
           "id": 735,
           "license": "MIT",
@@ -27107,12 +26981,7 @@
           "nodes": [
             {
               "id": 712,
-              "literals": [
-                "solidity",
-                "^",
-                "0.8",
-                ".7"
-              ],
+              "literals": ["solidity", "^", "0.8", ".7"],
               "nodeType": "PragmaDirective",
               "src": "32:23:4"
             },
@@ -27148,13 +27017,7 @@
               "contractKind": "contract",
               "fullyImplemented": true,
               "id": 734,
-              "linearizedBaseContracts": [
-                734,
-                585,
-                688,
-                663,
-                710
-              ],
+              "linearizedBaseContracts": [734, 585, 688, 663, 710],
               "name": "DragonToken",
               "nameLocation": "122:11:4",
               "nodeType": "ContractDefinition",
